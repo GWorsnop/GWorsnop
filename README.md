@@ -33,5 +33,5 @@
 
 ### ⚡ Fun fact: 
 
--I spend way too much time tinkering and analysing my Fantasy Football team.
+- I spend way too much time tinkering and analysing my Fantasy Football team.
 
