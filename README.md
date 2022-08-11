@@ -33,5 +33,5 @@
 
 ### ⚡ Fun fact: 
 
-- I spend way too much time tinkering and analysing my FPL team.
+- I can recite most of the words of the Lord of the Rings films (extended edition of course)
 
