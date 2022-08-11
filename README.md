@@ -1,14 +1,37 @@
-### Hi there 👋
+# Hi there, I'm George 👋 
 
-<!--
-**GWorsnop/GWorsnop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Trainee full-stack software developer @ [Northcoders](https://northcoders.com/)
 
-Here are some ideas to get you started:
--->
+### 📫 Check out my [LinkedIn](www.linkedin.com/in/gworsnop/) to find out more about me
 
-- 🔭 I’m currently working on a virtual trade-binder.
-- 🌱 I’m currently learning Tailwind CSS and Python.
-- 💬 Ask me about changing careers to be a software dev.
-- 📫 How to reach me: www.linkedin.com/in/gworsnop/
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: I spend too much time analysing Premier League data for FPL.
+---
+
+### 🔭 Projects:
+
+-  [Trade-Binder](https://github.com/GWorsnop/trade-binder) - A virtual replication of a real-world MTG trading card collection that can be sent to friends in order to ease trading
+-  [Trade-Binder-backend](https://github.com/GWorsnop/trade-binder-backend) - API created with express and node.js to store cards and users for the trade-binder front-end
+-  More to come!
+
+---
+
+### 🌱 I'm Learning:
+
+- Tailwind CSS 
+- Typescript
+- Python
+- Anything else that inspires me
+
+---
+
+### 💬 Ask me about:
+
+- Changing careers to become a software dev
+- Transferable skills from teaching
+- Anything else
+
+---
+
+### ⚡ Fun fact: 
+
+-I spend way too much time tinkering and analysing my Fantasy Football team.
+
