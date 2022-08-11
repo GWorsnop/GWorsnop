@@ -26,12 +26,12 @@
 ### 💬 Ask me about:
 
 - Changing careers to become a software dev
-- Transferable skills from teaching
-- Anything else
+- Who to captain in FPL this week
+- Anything else that springs to mind
 
 ---
 
 ### ⚡ Fun fact: 
 
-- I spend way too much time tinkering and analysing my Fantasy Football team.
+- I spend way too much time tinkering and analysing my FPL team.
 
