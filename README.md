@@ -8,7 +8,7 @@
 
 ### 🔭 Projects:
 
--  [Trade-Binder](https://github.com/GWorsnop/trade-binder) - A virtual replication of a real-world MTG trading card collection that can be sent to friends in order to ease trading
+-  [Trade-Binder](https://github.com/GWorsnop/trade-binder) - A virtual replication of a real-world MTG trading card collection that can be sent to friends to ease trading
 -  [Trade-Binder-backend](https://github.com/GWorsnop/trade-binder-backend) - API created with express and node.js to store cards and users for the trade-binder front-end
 -  More to come!
 
