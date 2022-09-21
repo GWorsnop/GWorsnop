@@ -1,8 +1,10 @@
 # Hi there, I'm George 👋 
 
-## Trainee full-stack software developer @ [Northcoders](https://northcoders.com/)
+## Full-stack software developer graduate from [Northcoders](https://northcoders.com/)
 
 ### 📫 Check out my [LinkedIn](www.linkedin.com/in/gworsnop/) to find out more about me
+
+### 💼 I am actively looking for my first role in the industry, so if you can help, please contact me via LinkedIn 
 
 ---
 
