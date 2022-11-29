@@ -1,10 +1,10 @@
 # Hi there, I'm George 👋 
 
-## Full-stack software developer graduate from [Northcoders](https://northcoders.com/)
+##  💼 Junior Software Developer for [Wonders of Maths](https://www.wondersofmaths.com/)
+
+### 👨‍🎓 Recently graduated full-stack software developer from [Northcoders](https://northcoders.com/)
 
 ### 📫 Check out my [LinkedIn](www.linkedin.com/in/gworsnop/) to find out more about me
-
-### 💼 I am actively looking for my first role in the industry, so if you can help, please contact me via LinkedIn 
 
 ---
 
@@ -21,7 +21,7 @@
 
 - Tailwind CSS 
 - Typescript
-- Python
+- Remix
 - Anything else that inspires me
 
 ---
