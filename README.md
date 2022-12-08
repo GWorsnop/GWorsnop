@@ -1,10 +1,10 @@
 # Hi there, I'm George 👋 
 
-##  💼 Junior Software Developer for [Wonders of Maths](https://www.wondersofmaths.com/)
+##  💼 Junior Software Developer for [Educai](https://educai.io/)
 
 ### 👨‍🎓 Recently graduated full-stack software developer from [Northcoders](https://northcoders.com/)
 
-### 📫 Check out my [LinkedIn](www.linkedin.com/in/gworsnop/) to find out more about me
+### 📫 Find me on [LinkedIn](www.linkedin.com/in/gworsnop/)
 
 ---
 
