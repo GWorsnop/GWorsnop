@@ -1,6 +1,6 @@
 # Hi there, I'm George 👋 
 
-##  💼 Junior Software Developer for [Educai](https://educai.io/)
+##  💼 Software Developer for [Educai](https://educai.io/)
 
 ### 👨‍🎓 Recently graduated full-stack software developer from [Northcoders](https://northcoders.com/)
 
