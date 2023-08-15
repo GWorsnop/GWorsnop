@@ -1,8 +1,8 @@
 # Hi there, I'm George 👋 
 
-##  💼 Software Developer for [Educai](https://educai.io/)
+##  💼 Software Developer for [Wonders of Maths](https://www.wondersofmaths.com/)
 
-### 👨‍🎓 Recently graduated full-stack software developer from [Northcoders](https://northcoders.com/)
+### 👨‍🎓 Graduate from the full-stack software developer bootcamp at [Northcoders](https://northcoders.com/)
 
 ### 📫 Find me on [LinkedIn](www.linkedin.com/in/gworsnop/)
 
@@ -19,22 +19,20 @@
 
 ### 🌱 I'm Learning:
 
-- Tailwind CSS 
-- Typescript
-- Remix
-- Anything else that inspires me
+- Python in my spare time
+- Serverless 
 
 ---
 
 ### 💬 Ask me about:
 
 - Changing careers to become a software dev
-- Who to captain in FPL this week
+- Magic: the Gathering deck ideas
 - Anything else that springs to mind
 
 ---
 
 ### ⚡ Fun fact: 
 
-- I can recite most of the words of the Lord of the Rings films (extended edition of course)
+- I once finished in the top 1000 in FPL - out of over 6 million teams 
 
