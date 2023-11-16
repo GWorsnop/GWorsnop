@@ -1,6 +1,6 @@
 # Hi there, I'm George 👋 
 
-##  💼 Software Developer for [Wonders of Maths](https://www.wondersofmaths.com/)
+##  💼 Software Developer for [Aardy](https://www.aardy.com/)
 
 ### 👨‍🎓 Graduate from the full-stack software developer bootcamp at [Northcoders](https://northcoders.com/)
 
