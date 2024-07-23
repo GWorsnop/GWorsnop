@@ -1,6 +1,6 @@
 # Hi there, I'm George 👋 
 
-##  💼 Software Developer looking for a new role
+##  💼 Software Developer at [More Happi](https://morehappi.com/)
 
 ### 💻 Previously at [Aardy](https://www.aardy.com/) and [Wonders of Maths](https://www.wondersofmaths.com/)
 
@@ -22,7 +22,7 @@
 ### 🌱 I'm Learning:
 
 - Python in my spare time
-- Serverless 
+- Serverless / AWS
 
 ---
 
